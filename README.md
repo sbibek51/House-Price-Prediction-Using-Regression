@@ -29,7 +29,7 @@ The dataset was obtained from [source] and consists of [format or structure]. It
 
 ### Data Cleaning
 
-We performed data cleaning to handle missing values, outliers, and any anomalies that could affect the model's performance. This included [specific cleaning steps taken].
+We performed data cleaning to handle missing values, outliers, and any anomalies that could affect the model's performance. 
 
 ### Feature Selection
 
@@ -58,16 +58,10 @@ The Random Forest regressor was implemented using the following hyperparameters:
 
 We evaluated the model's performance using the following metrics:
 
-- Mean Absolute Error (MAE): [interpretation]
-- Mean Squared Error (MSE): [interpretation]
-- R-squared (R²): [interpretation]
+- Mean Absolute Error (MAE): 
+- Mean Squared Error (MSE): 
+- R-squared (R²): 
 
-## Results and Conclusion
+## Results and Conclusion 
 
-After thorough evaluation, we observed [mention observations, insights, or findings]. The model performed [mention performance metrics and their values]. 
-
-In conclusion, we have successfully built a regression model using Random Forest to predict house prices. Further improvements could be made by [mention potential future steps, e.g., feature engineering, trying different algorithms, etc.].
-
----
-
-Remember to fill in any specific details or results from your analysis. This template provides a structured overview of your project based on the house price dataset.
+In conclusion, we have successfully built a regression model using Random Forest to predict house prices. 
